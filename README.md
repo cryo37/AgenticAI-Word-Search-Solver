@@ -100,7 +100,6 @@ word-search-agentic-ai/
 │
 ├── README.md
 ├── AgentSpec.md
-├── Interaction.md
 │
 ├── components/
 │ ├── word_grid_finder.py
