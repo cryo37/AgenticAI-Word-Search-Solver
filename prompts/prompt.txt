@@ -1,0 +1,7 @@
+Extract the text from the base64 output and convert it in 2d text grid convert it into json and just the grid do not return anything else for example just
+Example output format:
+[
+["K","J","C","Q"],
+["C","T","N","D"],
+["A","Q","H","C"]
+]
